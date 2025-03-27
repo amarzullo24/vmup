@@ -1,0 +1,5 @@
+[settings]
+ssh_config = PATH_TO_SSH_CONFIG_FILE
+user = VM_SSH_USER
+project = PROJECT_ID
+zone = VM_REGION
