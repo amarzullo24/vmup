@@ -8,10 +8,10 @@
 ---
 
 ## **📌 Installation**  
-<!--### **Using `pip` (Recommended)**
+### **Using `pip`**
 ```sh
-pip install vmup
-```-->
+pip install git+https://github.com/amarzullo24/vmup.git
+```
 
 ### **From Source**
 ```sh
